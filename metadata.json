@@ -1,0 +1,6 @@
+{
+  "name": "Warhammer 40K 8-Bit Tactics",
+  "description": "Game Boy style 8-bit real-time tactical game inspired by Warhammer 40,000 featuring Space Marines, Orks, and Tyranids with grid combat, abilities, and chiptune audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
